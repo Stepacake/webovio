@@ -22,7 +22,7 @@ google-chrome index.html
 ```
 
 ## Project structure
-
+```text
 webovio/
 |---index.html
 |---README.md
@@ -42,3 +42,4 @@ webovio/
     |---tb-sb.png
     |---tb-tb.png
     |---wth.png
+```
